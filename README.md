@@ -1,6 +1,7 @@
 ## Project Repository Details
 
-Find the project repository .
+Find the project repository https://github.com/aziza251/dpcard.git
+Please check the master branch for the commits
 
 ## Design Details
 
